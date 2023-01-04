@@ -1,2 +1,3 @@
 # git_test
-GitHub practice repo from The Odin Project tutorial.
+GitHub practice repo for The Odin Project tutorial.
+Hello Odin!
